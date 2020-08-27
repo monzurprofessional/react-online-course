@@ -1,0 +1,17 @@
+.logo{
+    height: 80px;
+    margin-left: 50px;
+}
+a{
+    color: black !important;
+    /* font-weight: bold; */
+    font-size: 20px;
+}
+#navbarNav{
+    margin-right: 20px;
+}
+.menu{
+   
+    border-bottom: 1px solid lightgray;
+    height: 80px;
+}

@@ -1,0 +1,9 @@
+.main-div{
+    display: flex;
+}
+.course-container{
+    width:85%;
+}
+.cart-container{
+    border-left: 1px solid lightgray;
+}

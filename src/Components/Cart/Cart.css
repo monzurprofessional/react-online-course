@@ -1,0 +1,11 @@
+.orders{
+    width: 400px;
+    justify-content:center;
+    margin-top: 100px;
+}
+.title{
+    text-decoration: underline;
+}
+.btn{
+    width: 80%;
+}

@@ -1,0 +1,16 @@
+/* .card-title{
+    color: red;
+} */
+.main{
+    float: left;
+    
+}
+.card-img-top{
+    height: 220px;
+    border-radius: 20px !important;
+    padding:8px;
+}
+.card{
+    margin: 20px;
+    border-radius: 20px !important;
+}

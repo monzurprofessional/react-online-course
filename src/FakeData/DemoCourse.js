@@ -1,0 +1,133 @@
+var DemoCourse = [
+    {
+    img:'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80',
+    title: 'Bio Chemistry',
+    duration:'17 hours',
+    price: 45,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1526721940322-10fb6e3ae94a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80',
+    title: 'Bio Physics',
+    duration:'14 hours',
+    price: 55,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1548&q=80',
+    title: 'Applied Math',
+    duration:'15 hours',
+    price: 55,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1529473814998-077b4fec6770?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80',
+    title: 'Satistics',
+    duration:'15 hours',
+    price: 45,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1332&q=80',
+    title: 'Python Basic',
+    duration:'16 hours',
+    price: 23,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Java Basic',
+    duration:'18 hours',
+    price: 23,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1514593214839-ce1849100055?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1334&q=80',
+    title: 'Microbiology',
+    duration:'12 hours',
+    price: 28,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1534774592507-488885376ad3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Genetics',
+    duration:'17 hours',
+    price: 15,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1463320726281-696a485928c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Oil painting',
+    duration:'14 hours',
+    price: 27,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1568047571827-8c46fe611345?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Pharmacy',
+    duration:'17 hours',
+    price: 25,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1509869175650-a1d97972541a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'C programming',
+    duration:'20 hours',
+    price: 35,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+
+    {
+        img:'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'digital marketing',
+    duration:'21 hours',
+    price: 26,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Seo hacks',
+    duration:'10 hours',
+    price: 55,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1789&q=80',
+    title: 'Javascript fundamentals',
+    duration:'19 hours',
+    price: 35,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80',
+    title: 'Astro physics',
+    duration:'13 hours',
+    price: 24,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80',
+    title: 'Astro physics',
+    duration:'13 hours',
+    price: 24,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80',
+    title: 'Astro physics',
+    duration:'13 hours',
+    price: 24,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+    {
+        img:'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80',
+    title: 'Astro physics',
+    duration:'13 hours',
+    price: 24,
+    details: 'build your career through Bio Chemistry and follow the trends!',
+    },
+
+
+
+    ]
+  export default DemoCourse;  
